@@ -1,6 +1,9 @@
 const sortByDescendingFriendCount = users => {
-  return users.map(user => user.friends.toSorted((a, b) => b.localeCompare(a)));
+  return users.toSorted((a, b) => {
+    return b.friends.length - a.friends.length;
+  });
 };
+
 console.log(
   sortByDescendingFriendCount([
     {

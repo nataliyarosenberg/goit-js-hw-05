@@ -12,19 +12,19 @@ const users = [
   },
   {
     name: 'Ross Vazquez',
-    friends: ['Marilyn Mcintosh', 'Sharron Pace'],
+    friends: ['Marilyn Mcintosh', 'Padilla Garrison', 'Naomi Buckner'],
   },
   {
     name: 'Elma Head',
-    friends: ['Sharron Pace'],
+    friends: ['Goldie Gentry', 'Aisha Tran'],
   },
   {
     name: 'Carey Barr',
-    friends: ['Briana Decker', 'Sharron Pace'],
+    friends: ['Jordan Sampson', 'Eddie Strong'],
   },
   {
     name: 'Blackburn Dotson',
-    friends: ['Jacklyn Lucas', 'Linda Gentry'],
+    friends: ['Jacklyn Lucas', 'Linda Chapman'],
   },
   {
     name: 'Sheree Anthony',
